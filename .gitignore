@@ -1,0 +1,4 @@
+*.gguf
+Lib/
+Scripts/
+pyenv.cfg
